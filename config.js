@@ -20,13 +20,13 @@ const CONFIG = {
 	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Good evening,',
+	greetingNight: 'Good eveniong,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'f0ec7ffc69msh87778b000d2c2a1p1c53c2jsn1eb066141c72', // Write here your API Key
+	weatherKey: '754e1f8cb680375f5c8edf058313ba82', // Write here your API Key
 	weatherIcons: 'Dark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -36,7 +36,7 @@ const CONFIG = {
 	defaultLongitude: '-85.48397',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
 	changeThemeByOS: true,
