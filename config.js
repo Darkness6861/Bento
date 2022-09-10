@@ -14,26 +14,26 @@ const CONFIG = {
 	name: 'William',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'Good eveniong,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: 'f0ec7ffc69msh87778b000d2c2a1p1c53c2jsn1eb066141c72', // Write here your API Key
 	weatherIcons: 'Dark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '43.698291',
+	defaultLongitude: '-85.48397',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -61,31 +61,31 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Monkeytype',
+			icon: 'keyboard',
+			link: 'https://monkeytype.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
-		},
-		{
-			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
+			id: '5',
+			name: 'Outlook',
+			icon: 'mail-plus',
+			link: 'https://outlook.office.com/mail/',
+		},
+		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Spotify Main',
+					link: 'https://open.spotify.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Discovery Weekly',
+					link: 'https://open.spotify.com/playlist/37i9dQZEVXcKWJxr02XfPw?si=3ed23184fbd04b09',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Release Radar',
+					link: 'https://open.spotify.com/playlist/37i9dQZEVXbfp8F1qtzMze?si=5db45b17fbf944ad',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'New Music Friday',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk?si=3669b77ccb954a6d',
 				},
 			],
 		},
