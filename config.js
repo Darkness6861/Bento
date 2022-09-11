@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Crunchyroll',
+			icon: 'moon',
+			link: 'https://beta.crunchyroll.com/',
 		},
 		{
 			id: '5',
