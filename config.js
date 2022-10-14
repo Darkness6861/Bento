@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://ferris.instructure.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Netflix',
+					link: 'https://www.netflix.com',
 				},
 				{
 					name: 'Trello',
