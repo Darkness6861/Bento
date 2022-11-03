@@ -170,7 +170,7 @@ const CONFIG = {
 				},
 				{
 					name: 'MyFSU',
-					link: 'myfsu.ferris.edu/',
+					link: 'https://myfsu.ferris.edu/',
 				},
 				{
 					name: 'Slack',
