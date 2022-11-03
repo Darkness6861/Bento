@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://www.netflix.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'MyFSU',
+					link: 'myfsu.ferris.edu/',
 				},
 				{
 					name: 'Slack',
