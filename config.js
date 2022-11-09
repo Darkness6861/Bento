@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://myfsu.ferris.edu/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'TOTN',
+					link: 'https://www.techonthenet.com/oracle/index.php',
 				},
 			],
 		},
