@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://myfsu.ferris.edu/',
 				},
 				{
-					name: 'TOTN',
-					link: 'https://www.techonthenet.com/oracle/index.php',
+					name: 'WebFocus',
+					link: 'https://webfocusdev.ferris.edu/ibi_apps/welcome',
 				},
 			],
 		},
