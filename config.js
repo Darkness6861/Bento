@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://ferris.instructure.com/',
 				},
 				{
-					name: 'Netflix',
-					link: 'https://www.netflix.com',
+					name: '3D Printer',
+					link: 'http://octopi.local/login/?redirect=%2F%3F&permissions=STATUS%2CSETTINGS_READ',
 				},
 				{
 					name: 'MyFSU',
@@ -175,10 +175,6 @@ const CONFIG = {
 				{
 					name: 'WebFocus',
 					link: 'https://webfocusdev.ferris.edu/ibi_apps/welcome',
-				},
-				{
-					name: '3d Printer',
-					link: 'http://octopi.local/login/?redirect=%2F%3F&permissions=STATUS%2CSETTINGS_READ',
 				},
 			],
 		},
