@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://open.spotify.com/playlist/37i9dQZEVXbfp8F1qtzMze?si=5db45b17fbf944ad',
 				},
 				{
-					name: 'New Music Friday',
-					link: 'https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk?si=3669b77ccb954a6d',
+					name: 'Calendar',
+					link: 'https://calendar.google.com/calendar/u/0/r?pli=1',
 				},
 			],
 		},
