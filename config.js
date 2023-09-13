@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'http://octopi.local/login/?redirect=%2F%3F&permissions=STATUS%2CSETTINGS_READ',
 				},
 				{
-					name: 'MyFSU',
-					link: 'https://myfsu.ferris.edu/',
+					name: 'Ferris360',
+					link: 'https://360.ferris.edu/',
 				},
 				{
 					name: 'WebFocus',
