@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://ferris.instructure.com/',
 				},
 				{
-					name: '3D Printer',
-					link: 'http://octopi.local/login/?redirect=%2F%3F&permissions=STATUS%2CSETTINGS_READ',
-				},
-				{
 					name: 'Ferris360',
 					link: 'https://360.ferris.edu/',
 				},
 				{
-					name: 'WebFocus',
+					name: 'Old Webfocus',
 					link: 'https://webfocusdev.ferris.edu/ibi_apps/welcome',
+				},
+				{
+					name: 'New WebFocus',
+					link: 'https://wfdev.ferris.edu/ibi_apps/',
 				},
 			],
 		},
