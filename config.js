@@ -169,11 +169,11 @@ const CONFIG = {
 					link: 'https://360.ferris.edu/',
 				},
 				{
-					name: 'Old Webfocus',
-					link: 'https://webfocusdev.ferris.edu/ibi_apps/welcome',
+					name: 'NYT Games',
+					link: 'https://www.nytimes.com/crosswords',
 				},
 				{
-					name: 'New WebFocus',
+					name: 'WebFocus',
 					link: 'https://wfdev.ferris.edu/ibi_apps/',
 				},
 			],
