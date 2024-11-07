@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'YouTube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			name: 'ToDo',
+			icon: 'list-todo',
+			link: 'https://to-do.office.com/tasks/id/AAMkAGI4MzA5ODVkLTA1NTYtNGI2Mi1hNjRkLTA0MTVlNjQxNDI0NQBGAAAAAAC5U5EZktZxTrJLrc1442n1BwBMICP9nJnSS6aFp4UOIoebAAAAAAESAABMICP9nJnSS6aFp4UOIoebAAOSYftYAAA=',
 		},
 	],
 
