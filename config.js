@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'ToDo',
+			name: 'Notion',
 			icon: 'list-todo',
-			link: 'https://to-do.office.com/tasks/id/AAMkAGI4MzA5ODVkLTA1NTYtNGI2Mi1hNjRkLTA0MTVlNjQxNDI0NQBGAAAAAAC5U5EZktZxTrJLrc1442n1BwBMICP9nJnSS6aFp4UOIoebAAAAAAESAABMICP9nJnSS6aFp4UOIoebAAOSYftYAAA=',
+			link: 'https://www.notion.so/Personal-18e00254cbfd80c3a213d0ddd001a026',
 		},
 	],
 
