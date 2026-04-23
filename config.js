@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Github',
-			icon: 'github',
+			icon: 'folder-git',
 			link: 'https://github.com/',
 		},
 		{
@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Canvas',
-					link: 'https://ferris.instructure.com/',
+					name: 'YouTube',
+					link: 'https://www.youtube.com/',
 				},
 				{
 					name: 'Ferris360',
